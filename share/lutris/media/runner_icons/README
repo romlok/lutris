@@ -51,3 +51,11 @@ mame.svg
 
 Sourced from the RetroPie carbon theme, based on the original MAME logo: https://github.com/RetroPie/es-theme-carbon-centered/blob/master/mame/art/system.svg
 Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA): https://creativecommons.org/licenses/by-nc-sa/2.0/
+
+mednafen.svg
+------------
+
+Sourced from the Mednafen forums: http://forum.fobby.net/index.php?t=msg&&th=214#msg_1743
+No explicit license given for the logo, but the project is GPLv2:
+http://www.gnu.org/licenses/gpl-2.0.html
+
