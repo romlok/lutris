@@ -109,7 +109,7 @@ http://www.gnu.org/licenses/gpl-2.0.html
 steam.svg
 ---------
 
-Courtesy of Wikimedia Commons:
+Modified version of that found at Wikimedia Commons:
 https://commons.wikimedia.org/wiki/File:Steam_icon_logo.svg
 
 The Wikimedia page claims that the image "does not meet the threshold of originality needed for copyright protection, and is therefore in the public domain". I find this claim questionable, but the use of an obvious proprietary trademark is probably a bigger issue.
