@@ -131,6 +131,14 @@ Sourced from the Wine project: https://dl.winehq.org/wine/logos/
 License is shared with the main project: LGPLv2.1 or later:
 https://www.winehq.org/license
 
+winesteam.svg
+-------------
+
+Created for Lutris by Romlok: https://github.com/romlok/
+
+License is Creative Commons Zero 1.0:
+https://creativecommons.org/publicdomain/zero/1.0/
+
 xdg.svg
 -------
 
