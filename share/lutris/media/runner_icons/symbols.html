@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>SVG symbolic icon tester</title>
+		<style>
+			input {
+				display: none;
+			}
+			.colorselect {
+				display: flex;
+				width: auto;
+				border: 1px solid black;
+				padding: 0;
+			}
+			.colorselect label {
+				flex-grow: 1;
+				height: 50px;
+				width: 100px;
+			}
+			
+			.white-select,
+			#bg-white:checked ~ svg {
+				background-color: #fff;
+			}
+			.lightgrey-select,
+			#bg-lightgrey:checked ~ svg {
+				background-color: #bbb;
+			}
+			.grey-select,
+			#bg-grey:checked ~ svg {
+				background-color: #888;
+			}
+			.darkgrey-select,
+			#bg-darkgrey:checked ~ svg {
+				background-color: #444;
+			}
+			.black-select,
+			#bg-black:checked ~ svg {
+				background-color: #000;
+			}
+			.red-select,
+			#bg-red:checked ~ svg {
+				background-color: #f00;
+			}
+			.green-select,
+			#bg-green:checked ~ svg {
+				background-color: #0f0;
+			}
+			.blue-select,
+			#bg-blue:checked ~ svg {
+				background-color: #00f;
+			}
+			
+			#fg-white:checked ~ svg {
+				fill: #fff;
+			}
+			#fg-lightgrey:checked ~ svg {
+				fill: #bbb;
+			}
+			#fg-grey:checked ~ svg {
+				fill: #888;
+			}
+			#fg-darkgrey:checked ~ svg {
+				fill: #444;
+			}
+			#fg-black:checked ~ svg {
+				fill: #000;
+			}
+			#fg-red:checked ~ svg {
+				fill: #f00;
+			}
+			#fg-green:checked ~ svg {
+				fill: #0f0;
+			}
+			#fg-blue:checked ~ svg {
+				fill: #00f;
+			}
+			
+			svg {
+				float: left;
+				width: 64px;
+				height: 64px;
+				padding: 4px;
+			}
+		</style>
+	</head>
+	<body>
+		<h2>Background</h2>
+		<input id="bg-white" class="bg" type="radio" name="bg" />
+		<input id="bg-lightgrey" class="bg" type="radio" name="bg" />
+		<input id="bg-grey" class="bg" type="radio" name="bg" />
+		<input id="bg-darkgrey" class="bg" type="radio" name="bg" />
+		<input id="bg-black" class="bg" type="radio" name="bg" />
+		<div class="colorselect">
+			<label for="bg-white" class="white-select"></label>
+			<label for="bg-lightgrey" class="lightgrey-select"></label>
+			<label for="bg-grey" class="grey-select"></label>
+			<label for="bg-darkgrey" class="darkgrey-select"></label>
+			<label for="bg-black" class="black-select"></label>
+		</div>
+		
+		<h2>Foreground</h2>
+		<input id="fg-white" class="fg" type="radio" name="fg" />
+		<input id="fg-lightgrey" class="fg" type="radio" name="fg" />
+		<input id="fg-grey" class="fg" type="radio" name="fg" />
+		<input id="fg-darkgrey" class="fg" type="radio" name="fg" />
+		<input id="fg-black" class="fg" type="radio" name="fg" />
+		<input id="fg-red" class="fg" type="radio" name="fg" />
+		<input id="fg-green" class="fg" type="radio" name="fg" />
+		<input id="fg-blue" class="fg" type="radio" name="fg" />
+		<div class="colorselect">
+			<label for="fg-white" class="white-select"></label>
+			<label for="fg-lightgrey" class="lightgrey-select"></label>
+			<label for="fg-grey" class="grey-select"></label>
+			<label for="fg-darkgrey" class="darkgrey-select"></label>
+			<label for="fg-black" class="black-select"></label>
+			<label for="fg-red" class="red-select"></label>
+			<label for="fg-green" class="green-select"></label>
+			<label for="fg-blue" class="blue-select"></label>
+		</div>
+		
+		<h2>Icons</h2>
+		<svg>
+			<use xlink:href="winesteam-symbolic.svg#root" height="100%" width="100%" />
+		</svg>
+	</body>
+</html>
