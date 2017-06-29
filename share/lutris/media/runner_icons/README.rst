@@ -114,6 +114,14 @@ https://commons.wikimedia.org/wiki/File:Steam_icon_logo.svg
 
 The Wikimedia page claims that the image "does not meet the threshold of originality needed for copyright protection, and is therefore in the public domain". I find this claim questionable, but the use of an obvious proprietary trademark is probably a bigger issue.
 
+steam-symbolic.svg
+------------------
+
+Created for Lutris by Romlok: https://github.com/romlok/
+
+License is Creative Commons Zero 1.0:
+https://creativecommons.org/publicdomain/zero/1.0/
+
 web.svg
 -------
 
