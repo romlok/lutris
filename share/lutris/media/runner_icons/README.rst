@@ -147,8 +147,8 @@ Created for Lutris by Romlok: https://github.com/romlok/
 License is Creative Commons Zero 1.0:
 https://creativecommons.org/publicdomain/zero/1.0/
 
-xdg.svg
--------
+xdg.svg & xdg-symbolic.svg
+--------------------------
 
 No-text version of Freedesktop.org's logo, originally (seemingly) converted from an official PNG by user:Sven of Wikimedia Commons:
 https://commons.wikimedia.org/wiki/File:Freedesktop-logo.svg
