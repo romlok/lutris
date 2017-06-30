@@ -18,8 +18,8 @@ citra.svg
 There (probably) exists an SVG icon for Citra's new icon, but it is not yet available in the repository:
 https://github.com/citra-emu/citra/issues/2051
 
-dolphin.svg
------------
+dolphin.svg & dolphin-symbolic.svg
+----------------------------------
 
 Sourced from the Dolphin emulator project itself.
 
