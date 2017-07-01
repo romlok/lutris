@@ -40,13 +40,15 @@ Sourced from the Dolphin emulator project itself.
 License is shared with the main project; GPLv2 (or later):
 https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
 
-hatari.svg
-----------
+
+hatari.svg & hatari-symbolic.svg
+--------------------------------
 
 Sourced from the Hatari project.
 
 License is shared with the main project; GPLv2 (or later):
 https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
+
 
 libretro.svg
 ------------
