@@ -70,6 +70,15 @@ Public domain http://creativecommons.org/publicdomain/zero/1.0/
 
 Tux was originally made by Larry Ewing in the Gimp and re-illustrated in vector by Garrett LeSage, using Inkscape.
 
+
+linux-symbolic.svg
+------------------
+
+Based on https://commons.wikimedia.org/wiki/File:Classic_flat_look_v1.1.svg by Larry Ewing and Sergey Smith (http://foxyriot.deviantart.com/)
+
+The copyright holder of this file allows anyone to use it for any purpose, provided that you acknowledge lewing@isc.tamu.edu and The GIMP if someone asks.
+
+
 mame.svg
 --------
 
