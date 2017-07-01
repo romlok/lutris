@@ -128,15 +128,6 @@ License is shared with the main project; GPLv2 or later:
 http://www.gnu.org/licenses/gpl-2.0.html
 
 
-residualvm.svg
---------------
-
-Sourced from the ResidualVM project:
-https://github.com/residualvm/residualvm/blob/master/icons/residualvm.svg
-
-License is shared with the main project; GPLv2 or later:
-http://www.gnu.org/licenses/gpl-2.0.html
-
 scummvm.svg
 -----------
 
