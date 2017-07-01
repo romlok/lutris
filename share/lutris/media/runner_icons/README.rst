@@ -79,14 +79,15 @@ Based on https://commons.wikimedia.org/wiki/File:Classic_flat_look_v1.1.svg by L
 The copyright holder of this file allows anyone to use it for any purpose, provided that you acknowledge lewing@isc.tamu.edu and The GIMP if someone asks.
 
 
-mame.svg
---------
+mame.svg & mame-symbolic.svg & mess-symbolic.svg
+------------------------------------------------
 
 Modified from the RetroPie carbon theme, based on the original MAME logo:
 https://github.com/RetroPie/es-theme-carbon-centered/blob/master/mame/art/system.svg
 
 Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA):
 https://creativecommons.org/licenses/by-nc-sa/2.0/
+
 
 mednafen.svg
 ------------
