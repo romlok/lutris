@@ -108,6 +108,16 @@ License is shared with the main project; GPLv2:
 http://www.gnu.org/licenses/gpl-2.0.html
 
 
+mupen64plus-symbolic.svg
+------------------------
+
+Adapted for Lutris by Romlok (https://github.com/romlok/), from the console UI of the Mupen64Plus project:
+https://github.com/mupen64plus/mupen64plus-ui-console/blob/master/data/icons/scalable/apps/mupen64plus.svg
+
+License is shared with the main project; GPLv2:
+http://www.gnu.org/licenses/gpl-2.0.html
+
+
 ppsspp.svg & ppsspp-symbolic.svg
 --------------------------------
 
