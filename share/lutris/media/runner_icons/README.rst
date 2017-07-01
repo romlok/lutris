@@ -89,13 +89,14 @@ Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-
 https://creativecommons.org/licenses/by-nc-sa/2.0/
 
 
-mednafen.svg
-------------
+mednafen.svg & mednafen-symbolic.svg
+------------------------------------
 
 Sourced from the Mednafen forums: http://forum.fobby.net/index.php?t=msg&&th=214#msg_1743
 
 No explicit license given for the logo, but the project is GPLv2:
 http://www.gnu.org/licenses/gpl-2.0.html
+
 
 mupen64plus.svg
 ---------------
