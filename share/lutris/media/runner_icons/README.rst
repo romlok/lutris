@@ -50,13 +50,14 @@ License is shared with the main project; GPLv2 (or later):
 https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
 
 
-libretro.svg
-------------
+libretro.svg & libretro-symbolic.svg
+------------------------------------
 
 Sourced from RetroArch: https://github.com/libretro/RetroArch/blob/master/media/retroarch.svg
 
 License is shared with the main project; GPLv3:
 https://www.gnu.org/licenses/gpl-3.0.en.html
+
 
 linux.svg
 ---------
