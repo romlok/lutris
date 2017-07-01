@@ -12,6 +12,20 @@ Sourced from the GNOME icon theme 2.20.0, by the GNOME icon artists.
 License is GPLv2:
 https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
 
+
+browser-symbolic.svg
+--------------------
+
+Sourced from the GNOME symbolic icon theme:
+https://github.com/GNOME/gnome-icon-theme-symbolic
+by the GNOME project:
+http://www.gnome.org
+
+License is Creative Commons Attribution-Share Alike 3.0
+United States:
+http://creativecommons.org/licenses/by-sa/3.0/
+
+
 citra.svg
 ---------
 
