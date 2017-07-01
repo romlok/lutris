@@ -128,14 +128,15 @@ License is shared with the main project; GPLv2 or later:
 http://www.gnu.org/licenses/gpl-2.0.html
 
 
-scummvm.svg
------------
+scummvm.svg & scummvm-symbolic.svg
+----------------------------------
 
 Sourced from the ScummVM project:
 https://github.com/scummvm/scummvm/blob/master/icons/scummvm.svg
 
 License is shared with the main project; GPLv2 or later:
 http://www.gnu.org/licenses/gpl-2.0.html
+
 
 steam.svg
 ---------
