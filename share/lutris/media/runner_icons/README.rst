@@ -89,13 +89,22 @@ Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-
 https://creativecommons.org/licenses/by-nc-sa/2.0/
 
 
-mednafen.svg & mednafen-symbolic.svg
-------------------------------------
+mednafen.svg
+------------
 
 Sourced from the Mednafen forums: http://forum.fobby.net/index.php?t=msg&&th=214#msg_1743
 
 No explicit license given for the logo, but the project is GPLv2:
 http://www.gnu.org/licenses/gpl-2.0.html
+
+
+mednafen-symbolic.svg
+---------------------
+
+Created for Lutris by Romlok: https://github.com/romlok/
+
+License is Creative Commons Zero 1.0:
+https://creativecommons.org/publicdomain/zero/1.0/
 
 
 mupen64plus.svg
