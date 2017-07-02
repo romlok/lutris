@@ -32,6 +32,7 @@ citra.svg
 There (probably) exists an SVG icon for Citra's new icon, but it is not yet available in the repository:
 https://github.com/citra-emu/citra/issues/2051
 
+
 dolphin.svg & dolphin-symbolic.svg
 ----------------------------------
 
@@ -155,6 +156,7 @@ https://commons.wikimedia.org/wiki/File:Steam_icon_logo.svg
 
 The Wikimedia page claims that the image "does not meet the threshold of originality needed for copyright protection, and is therefore in the public domain". I find this claim questionable, but the use of an obvious proprietary trademark is probably a bigger issue.
 
+
 steam-symbolic.svg
 ------------------
 
@@ -162,6 +164,7 @@ Created for Lutris by Romlok: https://github.com/romlok/
 
 License is Creative Commons Zero 1.0:
 https://creativecommons.org/publicdomain/zero/1.0/
+
 
 web.svg & web-symbolic.svg
 --------------------------
@@ -171,6 +174,7 @@ https://www.w3.org/html/logo/index.html
 
 It is licensed under Creative Commons Attribution 3.0:
 http://creativecommons.org/licenses/by/3.0/
+
 
 wine.svg
 --------
@@ -197,6 +201,7 @@ Created for Lutris by Romlok: https://github.com/romlok/
 
 License is Creative Commons Zero 1.0:
 https://creativecommons.org/publicdomain/zero/1.0/
+
 
 xdg.svg & xdg-symbolic.svg
 --------------------------
