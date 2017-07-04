@@ -4,6 +4,15 @@ Runner icon information
 NB. Many of these icons will be trademarked by their respective owners. Permission should be sought before re-using such icons, no matter the terms of whichever copyright license is used.
 
 
+ags-symbolic.svg
+----------------
+
+Created for Lutris by Romlok: https://github.com/romlok/
+
+License is Creative Commons Zero 1.0:
+https://creativecommons.org/publicdomain/zero/1.0/
+
+
 browser.svg
 -----------
 
