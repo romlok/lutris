@@ -44,11 +44,13 @@ United States:
 http://creativecommons.org/licenses/by-sa/3.0/
 
 
-citra.svg
----------
+citra-symbolic.svg
+------------------
 
-There (probably) exists an SVG icon for Citra's new icon, but it is not yet available in the repository:
-https://github.com/citra-emu/citra/issues/2051
+Created for Lutris by Romlok: https://github.com/romlok/
+
+License is Creative Commons Zero 1.0:
+https://creativecommons.org/publicdomain/zero/1.0/
 
 
 dolphin.svg & dolphin-symbolic.svg
