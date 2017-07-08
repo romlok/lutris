@@ -14,7 +14,7 @@ https://creativecommons.org/publicdomain/zero/1.0/
 
 
 atari800-symbolic.svg
-----------------
+---------------------
 
 Created for Lutris by Romlok: https://github.com/romlok/
 
@@ -54,7 +54,7 @@ https://creativecommons.org/publicdomain/zero/1.0/
 
 
 desmume-symbolic.svg
-------------------
+--------------------
 
 Created for Lutris by Romlok: https://github.com/romlok/
 
@@ -63,7 +63,7 @@ https://creativecommons.org/publicdomain/zero/1.0/
 
 
 dgen.svg & dgen-symbolic.svg
-------------------
+----------------------------
 
 Created for Lutris by Romlok: https://github.com/romlok/
 
@@ -81,7 +81,7 @@ https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
 
 
 dosbox-symbolic.svg
-------------------
+-------------------
 
 Created for Lutris by Romlok: https://github.com/romlok/
 
@@ -90,7 +90,7 @@ https://creativecommons.org/publicdomain/zero/1.0/
 
 
 fsuae-symbolic.svg
----------------------
+------------------
 
 Created for Lutris by Romlok: https://github.com/romlok/
 
@@ -242,7 +242,7 @@ https://www.winehq.org/license
 
 
 wine-symbolic.svg
-------------------
+-----------------
 
 Created for Lutris by Romlok: https://github.com/romlok/
 
