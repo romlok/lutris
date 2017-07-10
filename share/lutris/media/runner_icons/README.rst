@@ -211,6 +211,15 @@ License is shared with the main project; GPLv2:
 http://www.gnu.org/licenses/gpl-2.0.html
 
 
+nulldc-symbolic.svg
+-------------------
+
+Created for Lutris by Romlok: https://github.com/romlok/
+
+License is Creative Commons Zero 1.0:
+https://creativecommons.org/publicdomain/zero/1.0/
+
+
 ppsspp.svg & ppsspp-symbolic.svg
 --------------------------------
 
