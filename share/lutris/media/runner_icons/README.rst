@@ -238,6 +238,15 @@ License is Creative Commons Zero 1.0:
 https://creativecommons.org/publicdomain/zero/1.0/
 
 
+osmose-symbolic.svg
+-------------------
+
+Created for Lutris by Romlok: https://github.com/romlok/
+
+License is Creative Commons Zero 1.0:
+https://creativecommons.org/publicdomain/zero/1.0/
+
+
 ppsspp.svg & ppsspp-symbolic.svg
 --------------------------------
 
