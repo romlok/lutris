@@ -275,6 +275,16 @@ License is Creative Commons Zero 1.0:
 https://creativecommons.org/publicdomain/zero/1.0/
 
 
+residualvm-symbolic.svg
+-----------------------
+
+Adapted from the ResidualVM bitmap icon:
+https://github.com/residualvm/residualvm/tree/master/icons
+
+License is shared with the main project; GPLv2 or later:
+https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
+
+
 scummvm.svg & scummvm-symbolic.svg
 ----------------------------------
 
