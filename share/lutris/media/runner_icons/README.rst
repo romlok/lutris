@@ -385,3 +385,12 @@ https://commons.wikimedia.org/wiki/File:Freedesktop-logo.svg
 
 License is GPLv2 or later:
 https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
+
+zdoom-symbolic.svg
+------------------
+
+Created for Lutris by Romlok: https://github.com/romlok/
+
+License is Creative Commons Zero 1.0:
+https://creativecommons.org/publicdomain/zero/1.0/
