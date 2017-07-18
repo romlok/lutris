@@ -340,6 +340,15 @@ License is Creative Commons Zero 1.0:
 https://creativecommons.org/publicdomain/zero/1.0/
 
 
+virtualjaguar-symbolic.svg
+--------------------------
+
+Created for Lutris by Romlok: https://github.com/romlok/
+
+License is Creative Commons Zero 1.0:
+https://creativecommons.org/publicdomain/zero/1.0/
+
+
 web.svg & web-symbolic.svg
 --------------------------
 
