@@ -107,6 +107,14 @@ License is Creative Commons Zero 1.0:
 https://creativecommons.org/publicdomain/zero/1.0/
 
 
+gog-symbolic.svg
+----------------
+
+Based on the GOG.com logo at Wikimedia: https://commons.wikimedia.org/wiki/File:Gog-logo-2014.svg
+
+Wikimedia claims copyright is not applicable (public domain).
+
+
 hatari-symbolic.svg
 -------------------
 
